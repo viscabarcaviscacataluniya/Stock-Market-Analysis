@@ -1,4 +1,4 @@
-# Project Name: Stock Market Portfolio Analysis
+# Project Name: Mutual Fund Portfolio Analysis
 
 ## Project Overview
 This project is designed to analyze stock market trends using historical Nifty50 data and develop a robust portfolio strategy. The project encompasses data preprocessing, exploratory data analysis (EDA), and model training, culminating in actionable insights to aid decision-making. The repository follows best practices to ensure scalability, reproducibility, and clarity, adhering to industry standards observed in leading tech firms like FAANG and MAANG.
