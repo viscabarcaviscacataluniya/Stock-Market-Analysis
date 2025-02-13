@@ -113,7 +113,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For inquiries or collaborations:
-- **Email**: your.email@example.com
-- **GitHub**: [your-github-profile](https://github.com/username)
+- **Email**: mrnamanshetty@gmail.com
+- **GitHub**: https://github.com/viscabarcaviscacataluniya
 
 
